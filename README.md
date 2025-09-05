@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ahmed Samir  
 
-💡 Founder & CTO at **Soft Blue Ocean (SBO)** – a UK-registered software agency delivering AI-powered, mobile, and enterprise-grade systems for startups and enterprises across MENA and beyond.  
+💡 Founder & CTO at **Soft Blue Ocean (SBO)** – a UK-registered software company delivering AI-powered, mobile, and enterprise-grade systems for startups and enterprises across MENA, US, Europe and beyond.  
 
 🚀 **15+ years of experience in:**  
 - 📱 Mobile & Web Applications (Flutter, React, Django, Firebase)  
